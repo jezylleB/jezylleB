@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jezylleB
-- 🌱 I’m currently learning HTML,CSS, and javascript
 
 
 <!---
